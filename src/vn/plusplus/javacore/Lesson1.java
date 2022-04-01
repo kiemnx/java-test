@@ -6,6 +6,6 @@ public class Lesson1 {
 
         System.out.println("Second line");
 
-
+        System.out.println("Third line");
     }
 }
